@@ -24,3 +24,5 @@ The investigation successfully provided evidence such as the suspect’s ICCID, 
 4. **Analytical Problem-Solving** – Identified illegal activity and suspect relationships through data-driven evidence correlation.
 5. **Technical Reporting** – Produced detailed documentation and visual exhibits suitable for legal proceedings.
 6. **Law Enforcement Forensic Methodology** – Applied investigative standards and workflow consistent with digital forensic best practices.
+
+https://github.com/JonSecOps/Forensic-Analysis-of-a-Suspect-s-iPhone-for-Criminal-Evidence-Recovery/blob/main/Forensic%20Analysis%20of%20a%20Suspect's%20iPhone%20for%20Criminal%20Evidence%20Recovery.pdf
